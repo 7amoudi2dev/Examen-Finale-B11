@@ -1,4 +1,3 @@
-// src/components/ListeDemandes.js
 import React, { useEffect, useState } from 'react';
 import { getDemandes, deleteDemande } from '../api/demandeApi';
 
